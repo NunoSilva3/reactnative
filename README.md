@@ -3,12 +3,12 @@ Simple weather app using openweather.org api.
 
 # Libraries used
 
-expo: 32.0.0
-react: 16.5.0
-react-native: https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz
-react-native-google-places-autocomplete: 1.3.9
-react-native-modal: 9.0.0
-react-native-sidebar: 0.3.0
+expo: 32.0.0,
+react: 16.5.0,
+react-native: https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz,
+react-native-google-places-autocomplete: 1.3.9,
+react-native-modal: 9.0.0,
+react-native-sidebar: 0.3.0,
 
 # Features
 
